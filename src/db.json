@@ -1,0 +1,74 @@
+{
+  "submissions": [
+    {
+      "name": "Roshan",
+      "email": "roshan2@gmail.com",
+      "phone": "9404246402",
+      "github_link": "https://www.github.com/Roshan-Bhagchandani/",
+      "stopwatch_time": 1800
+    },
+    {
+      "name": "Tanmay",
+      "email": "Tan21@gmail.com",
+      "phone": "9404244421",
+      "github_link": "https://www.github.com/Tann-Jagtap/",
+      "stopwatch_time": 1900
+    },
+    {
+      "name": "Mihir Shah",
+      "email": "ms070902@gmail.com",
+      "phone": "7020334779",
+      "github_link": "https://www.github.com/ms070902/",
+      "stopwatch_time": 9
+    },
+    {
+      "name": "Mihir Shah",
+      "email": "ms070902@gmail.com",
+      "phone": "7020334779",
+      "github_link": "https://www.github.com/ms070902/",
+      "stopwatch_time": 35
+    },
+    {
+      "name": "Amol D",
+      "email": "amoldandge1@gmail.com",
+      "phone": "9580674822",
+      "github_link": "yahoo.com",
+      "stopwatch_time": 2
+    },
+    {
+      "name": "Shri",
+      "email": "sybbhagwat02@gmail.com",
+      "phone": "8668570027",
+      "github_link": "github.com/sybbhagwat/",
+      "stopwatch_time": 46
+    },
+    {
+      "name": "asdvadv",
+      "email": "adv@mail.com",
+      "phone": "838383",
+      "github_link": "youtube.com/",
+      "stopwatch_time": 10
+    },
+    {
+      "name": "asdvadv1111",
+      "email": "adv@mail.com",
+      "phone": "838383111",
+      "github_link": "youtube.com/",
+      "stopwatch_time": 16
+    },
+    {
+      "name": "Karan",
+      "email": "chandwanikaran6@gmail.com",
+      "phone": "9586723109",
+      "github_link": "www.github.com/karanc6/",
+      "stopwatch_time": 10
+    },
+    {
+      "name": "Raunak",
+      "email": "rron7@gmail.com",
+      "phone": "8888999902",
+      "github_link": "www.github.com/rron6/",
+      "stopwatch_time": 11
+    }
+  ]
+}
